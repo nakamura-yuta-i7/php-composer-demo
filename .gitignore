@@ -1,0 +1,9 @@
+node_modules/
+bower_components/
+.trashbox/
+
+
+/composer.lock
+/tmp/*
+!/tmp/.placeholder
+/vendor
